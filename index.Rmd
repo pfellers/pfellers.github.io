@@ -1,0 +1,43 @@
+---
+title: "Pamela Fellers, PhD"
+---
+
+<div class = "col-md-4">
+<br><br>
+<style>
+div.grey { background-color:#bce0c0; border-radius: 5px; padding: 10px;}
+</style>
+<div class = "grey">
+As a statistican and educator I am passionate about finding creative solutions to understand and examine current statistical pracitce in order to advance the effective and appropriate use of data anlysis techniques. 
+
+</div>
+</div>
+
+<div class = "col-md-4"> 
+<br>
+<img src="files/pfellers.jpg" style="width:100%">
+</div>
+
+<div class = "col-md-4">
+<br><br>
+<style>
+div.grey { background-color:#bce0c0; border-radius: 5px; padding: 10px;}
+</style>
+<div class = "grey">
+I am an Assistant Professor of Statistics at Grinnell College. I completed my PhD and MS in Statistics at the University of Nebraska-Lincoln and my BS in Mathematics at Chadron State College.
+
+
+</div>
+</div>
+</div>
+
+
+<style>
+div.grey { background-color:#bce0c0; border-radius: 5px; padding: 10px;}
+</style>
+<br> 
+<div class = "grey">
+
+<center> "For data to reflect & represent our human nature & stories, we need to instill empathy & imperfection into how we interpret, collect, & visualize the data." - Giorgial Lupi </center>
+
+</div>

@@ -1,0 +1,21 @@
+name: "Pamela Fellers"
+navbar:
+  title: "Pamela Fellers"
+  left:
+    - text: "About Me"
+      href: index.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Research"
+      menu:
+        - text: "Overview"
+          href: research.html
+        - text: "Undergraduate Research"
+          href: undergrad.html
+   # - text: "Everyday Statistics"
+    #  href: everyday.html
+    - text: "Favorites"
+      href: favorites.html
+output:
+  html_document:
+    css: bootstrap.css

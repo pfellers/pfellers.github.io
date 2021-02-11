@@ -1,0 +1,28 @@
+---
+title: "Teaching"
+---
+
+## Grinnell College Courses
+
+* TUT 100 - Tutorial, Topic: Data Stories
+  + Textbook: Dear Data (Lupi & Posavec), The Ghost Map (Johnson), Info we Trust (Andrews)  
+  + First-year seminar course empahsizing writing, critical thinking and alalysis, and oral communication skills. 
+* MAT 131 - Calculus I
+  + Textbook: Calculus (Stewart)
+  + First of a two-course calculus sequence. Introduction to differential and integral calculus of functions of one variable. 
+* STA 209 - Applied Statistics
+  + Textbook: Introductory Statistics with Randomization and Simulation
+  + Covers the application of basic statistical methods such as univariate graphics and summary statistics, statistical inference for one and two samples, linear regression (simple and multiple), ANOVA, and categorical data analysis. 
+  + Statistical computing: Minitab
+* STA 309 - Design and Analysis of Experiments
+  + Textbook: A First Course in Design and Analysis of Experiments (Oehlert)
+  + Review of hypothesis testing, confidence intervals, and ANOVA. Explores design and anlysis techniques including factorial designs, block designns, random, fixed, and mixed effects models, crossed and nested factors, contrasts, checking assumptions, and propor analysis when assumptions are not met.
+  + Statistical computing: Minitab, SAS, and/or R
+* STA 335/336 - Probability and Statistics I/II
+  + Textbook: Foundations and Applications of Statistics (Pruim)
+  + A two-course sequence in probabilty and statistics. Introduces mathematical theory of probability and statistical inference. Covers discrete and continuous distributions, sampling distributions, limit theormens, estimation and hypothesis testing, linear models, analysis of variance, and chi-square tess.
+  + Statistical computing: R
+* MAT 444 - Senior Seminar: Simulation Methods in Statistics
+  + Textbook: Bootstrap Methods and Their Application (Davison & Hinkley)
+  + Bootstrap and Monte Carlo techniques for the analysis of data and designing simulation studies as an approach to provide insight into statistical research questions. 
+  + Statistical computing: R
