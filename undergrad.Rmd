@@ -32,7 +32,7 @@ Majors in Mathematics and Psychology, Concentration in Statistics
 
 >Jun Taek worked with a large corpus of new articles (2,715,691) from four newspaper sources spaning the years 1938 to 1947. The raw text data was messy and needed substantial cleaning and processing prior to analysis. The skip-gram model of the word2vec algorithm converted text into numerical vectors and keywords were examined realted to the topic of the Holocaust and Japanese internment camps. Results from the machine learning approach were then discussed with the historian to determine whether they would provide any useful insights. Unfortunately there were many nonsensible results, most likely due to poor quality text data. 
 
-The inter-disciplinary collaboration on this research project was documented through a blog: https://fellers.sites.grinnell.edu/ 
+The inter-disciplinary collaboration on this research project was documented through a [blog](https://fellers.sites.grinnell.edu/)
 
 ### Summer 2017: Text Analysis
 The goals of this project were to advance the students' knowledge and skills of working with data by challenging them with unstructured data in the form of Text data. This was an exploratory project that dove into the area of text analysis, a topic that was not part of any current curriculum. Together we learned about a variety of methods and techniques for extracting, working with, and visualizing data from text and then each student proposed an independent project to develop an in-depth understanding of the method and application. 
@@ -42,7 +42,7 @@ Major in Economics, Concentration in Statistics
 
 >Maggie focused her independent protion of the project on sentiment analysis. In particular, she was interested in applying sentiment analysis methods to understand podcasts. Transcripts of podcasts are an intriguing form of text as they are the text form of an orally delivered piece. Maggie explored the application of a variety of sentiment analysis methods to the transcripts from the Serial Podcast. Her work demonstrated a unique quantitative and visual approach to analyzing podcasts.
 
-Maggie shared hilights of her work through a contributed blog post  to the Grinnell College Data Analysis & Social Inquiry lab's blog. https://dasil.sites.grinnell.edu/2017/08/sentiment-analysis-of-a-podcast/ 
+Maggie shared hilights of her work through a contributed blog post  to the Grinnell College Data Analysis & Social Inquiry lab's blog: [Sentiment Analysis of a Podcast](https://dasil.sites.grinnell.edu/2017/08/sentiment-analysis-of-a-podcast/ )
 
 #### <span style="color: #38783f;"> **Anshul Tambay** (Class of 2020) </span>
 Majors in Economics and Mathematics
@@ -51,12 +51,14 @@ Majors in Economics and Mathematics
 
 
 ### Summer 2015: Interactive Visualization and Modeling of Large Datasets
-summary of overall project
+Professor Kuiper invited me along to mentor students on a project to examine two data resources, the Global Terrorism Database and the National Center for Health Statistics. The goal of this work was towfold; 1) incorporate advanced visualization tools into the model-building process to better identify key patterns within these datasets and 2) create new interactive visualization tools that would better communicate these key patterns to the general population. In total there were 5 students working on this project, I primarily directed and mentored two studens working with the National Center for Health Statisitcs datasets. 
 
 #### <span style="color: #38783f;"> **Ruby Barnard-Mayers** (Class of 2016) and **Karin Yndestad** (Class of 2017) </span>
-Ruby: Majors in Mathematics and Anthropology
-Karin: Majors in 
+>Ruby and Karin focused their project on understanding, visualizing, and communicating the importance of incorporating the weight variable(s) into the analysis when working with survey data. They created 5 different classroom activities with accompanying online visualizations to introduce basic techniques used in estimating and testing population paramters using weights. They also created two advanced supplements, one on the mathematical details of the Rao-Scott method and the other providing more details on types of weights, subsetting, strata, and clustering.   
 
-Summary of project
-Links to website, article, and presentations
+The materials created are available on [Professor Shonda Kuiper's webpage](https://stat2labs.sites.grinnell.edu/weights.html). Ruby and Karin contributed posts to the DASIL blog on [Estimation](https://dasil.sites.grinnell.edu/2015/10/understanding-population-estimates-based-upon-stratified-random-samples/) and [Testing](https://dasil.sites.grinnell.edu/2015/11/testing-weighted-data/).
+
+The work of this project was continued and was acknowledged in the following paper published in the Journal of Statistics Educaiton:
+Fellers, Pamela S., Kuiper, S. “Introducing Undergraduates to Concepts of Survey Data Analysis.” Journal of Statistics Education 28, no. 1 (2020): 18-24. [Link](https://doi.org/10.1080/10691898.2020.1720552)
+
 
